@@ -1,2 +1,2 @@
 # BMI-Calculator
-A reputable GitHub repository encompassing a BMI calculator project built in TypeScript.
+𝘈 𝘳𝘦𝘱𝘶𝘵𝘢𝘣𝘭𝘦 𝘎𝘪𝘵𝘏𝘶𝘣 𝘳𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘺 𝘦𝘯𝘤𝘰𝘮𝘱𝘢𝘴𝘴𝘪𝘯𝘨 𝘢 𝘉𝘔𝘐 𝘤𝘢𝘭𝘤𝘶𝘭𝘢𝘵𝘰𝘳 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘣𝘶𝘪𝘭𝘵 𝘪𝘯 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵.
